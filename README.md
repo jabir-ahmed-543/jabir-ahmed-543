@@ -36,8 +36,8 @@ Computer Science & Engineering undergraduate specializing in **end-to-end web ar
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **RAG Library System** | Intelligent library management platform featuring semantic search and context-aware Q&A powered by Retrieval-Augmented Generation. | `Next.js` `TypeScript` `RAG` `Docker` | [Repo](#) · [Live](#) |
-| **OJHub** | *Replace with your best live full-stack app (e.g., focus on auth, database design, and real-time features).* | `React` `mongodb` `Judge0` `Tailwind` | [Repo](https://github.com/jabir-ahmed-543/OJHub) · [Live](#) |
-| **Savor Restaurant** | *Replace with a high-impact project highlighting API design, analytics, or system architecture.* | `React` `Node.js` `MongoDB` `Express` | [Repo](https://github.com/jabir-ahmed-543/Savor-Restaurant) · [Live](#) |
+| **OJHub** | Full-stack online judge & contest platform with Google role-based auth, structured MongoDB schemas, live contest timers, and automated Codeforces problem fetching & judging. | `React` `Node.js` `MongoDB` `Firebase` `Puppeteer` `Judge0` | [Repo](https://github.com/jabir-ahmed-543/OJHub)|
+| **Savor Restaurant** | Full-stack restaurant ordering & management platform featuring Next.js App Router APIs, role-based access, live stock toggling, reservations, and MongoDB aggregation analytics. | `Next.js` `MongoDB` `Better Auth` `Tailwind` | [Repo](https://github.com/jabir-ahmed-543/Savor-Restaurant) · [Live](https://savor-restaurant-theta.vercel.app/) |
 
 ---
 
@@ -54,7 +54,7 @@ Computer Science & Engineering undergraduate specializing in **end-to-end web ar
 
 ---
 
-###  Activity
+### Activity
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jabir-ahmed-43&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" />
