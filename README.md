@@ -36,8 +36,8 @@ Computer Science & Engineering undergraduate specializing in **end-to-end web ar
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **RAG Library System** | Intelligent library management platform featuring semantic search and context-aware Q&A powered by Retrieval-Augmented Generation. | `Next.js` `TypeScript` `RAG` `Docker` | [Repo](#) · [Live](#) |
-| **Full-Stack App #2** | *Replace with your best live full-stack app (e.g., focus on auth, database design, and real-time features).* | `Next.js` `Supabase` `Tailwind` | [Repo](#) · [Live](#) |
-| **Full-Stack App #3** | *Replace with a high-impact project highlighting API design, analytics, or system architecture.* | `React` `Node.js` `MongoDB` `Express` | [Repo](#) · [Live](#) |
+| **OJHub** | *Replace with your best live full-stack app (e.g., focus on auth, database design, and real-time features).* | `React` `mongodb` `Judge0` `Tailwind` | [Repo](https://github.com/jabir-ahmed-543/OJHub) · [Live](#) |
+| **Savor Restaurant** | *Replace with a high-impact project highlighting API design, analytics, or system architecture.* | `React` `Node.js` `MongoDB` `Express` | [Repo](https://github.com/jabir-ahmed-543/Savor-Restaurant) · [Live](#) |
 
 ---
 
