@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jabir-ahmed-mja43)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jabir_ahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jabir.ahmed484@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=jabir-ahmed-543&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="Profile Views" />
 
 </div>
 
